@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.Header_1 {
+  display: flex;
+  position: relative;
+}
+
+.Header_1 .dropdown button {
+  background-color: #343a40;
+  border: none;
+  right: 0;
+}
+/*# sourceMappingURL=Main.css.map */
